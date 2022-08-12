@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  direction: rtl;
+  font-family:Vazir;
+}
+a{
+  text-decoration: none;
+  color: unset;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url(../public/font/Vazir.ttf) format('ttf'),
+   url(../public/font/Vazir.eot) format('eot'), 
+   url(../public/font/Vazir.woff) format('woff'),
+}
+
+
+
