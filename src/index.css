@@ -1,7 +1,7 @@
 *{
   box-sizing: border-box;
   direction: rtl;
-  font-family:Vazir;
+  font-family:'Vazir'!important;
 }
 a{
   text-decoration: none;
